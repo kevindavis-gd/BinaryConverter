@@ -1,0 +1,10 @@
+C:\Users\shylo\Desktop\Binary Calculator\Binary Calculator\bin\Debug\Binary Calculator.exe.config
+C:\Users\shylo\Desktop\Binary Calculator\Binary Calculator\bin\Debug\Binary Calculator.exe
+C:\Users\shylo\Desktop\Binary Calculator\Binary Calculator\bin\Debug\Binary Calculator.pdb
+C:\Users\shylo\Desktop\Binary Calculator\Binary Calculator\obj\Debug\Binary Calculator.csprojAssemblyReference.cache
+C:\Users\shylo\Desktop\Binary Calculator\Binary Calculator\obj\Debug\Binary_Calculator.mainForm.resources
+C:\Users\shylo\Desktop\Binary Calculator\Binary Calculator\obj\Debug\Binary_Calculator.Properties.Resources.resources
+C:\Users\shylo\Desktop\Binary Calculator\Binary Calculator\obj\Debug\Binary Calculator.csproj.GenerateResource.cache
+C:\Users\shylo\Desktop\Binary Calculator\Binary Calculator\obj\Debug\Binary Calculator.csproj.CoreCompileInputs.cache
+C:\Users\shylo\Desktop\Binary Calculator\Binary Calculator\obj\Debug\Binary Calculator.exe
+C:\Users\shylo\Desktop\Binary Calculator\Binary Calculator\obj\Debug\Binary Calculator.pdb
